@@ -5,10 +5,10 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <title>login</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="login.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <link rel="stylesheet" href="./asset/nicepage.css" media="screen">
+<link rel="stylesheet" href="./asset/login.css" media="screen">
+    <script class="u-script" type="text/javascript" src="./asset/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="./asset/nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 5.1.5, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     
@@ -27,7 +27,7 @@
   </head>
   <body class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-palette-1-base u-header" id="sec-3f2e"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="260" data-image-height="38">
-          <img src="images/MyStockPart.png" class="u-logo-image u-logo-image-1">
+          <img src="./asset/images/MyStockPart.png" class="u-logo-image u-logo-image-1">
         </a>
       </div></header>
     <section class="u-clearfix u-palette-1-light-1 u-section-1" id="sec-71dc">
@@ -59,7 +59,7 @@
           </div>
         </div>
       </div>
-      <img class="u-image u-image-default u-image-1" src="images/undraw_order_delivered_re_v4ab1.png" alt="" data-image-width="503" data-image-height="396">
+      <img class="u-image u-image-default u-image-1" src="./asset/images/undraw_order_delivered_re_v4ab1.png" alt="" data-image-width="503" data-image-height="396">
     </section>
     
   
